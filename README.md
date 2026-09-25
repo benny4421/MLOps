@@ -1,2 +1,2 @@
-# MLOps
-A repo for MLOps
+**MLOPS**
+The first model uses `x4` as the single predictor because it had the highest R-squared among the individual variables, with an R-squared of about **0.275**. The current model uses `x3` and `x4`, which produced the best two-variable model with an R-squared of about **0.530**. Since the two-variable model performs better, it is designated as the current model, while the previous one-variable model remains accessible through the Git tag `model-v1`.
